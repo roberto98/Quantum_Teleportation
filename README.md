@@ -6,3 +6,5 @@ Il teletrasporto quantistico si tratta di una tecnica nell’ambito dell’infor
 sotto determinate condizioni, di trasferire uno stato quantistico sconosciuto da un punto ad un 
 altro arbitrariamente lontano e che potrebbe avere molte applicazioni nell’elaborazione dell’informazione 
 nel futuro.
+
+💻 **Developed with IBM quantum computers: https://quantum-computing.ibm.com/lab**
